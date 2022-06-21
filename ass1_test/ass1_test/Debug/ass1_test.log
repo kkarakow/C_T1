@@ -1,0 +1,4 @@
+﻿  Source.c
+\\Mac\Home\Desktop\SEMESTER 4\NETC#\PROJECTS\ass1_test\ass1_test\Source.c(57,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+\\Mac\Home\Desktop\SEMESTER 4\NETC#\PROJECTS\ass1_test\ass1_test\Source.c(65,45): warning C4013: 'malloc' undefined; assuming extern returning int
+  ass1_test.vcxproj -> \\Mac\Home\Desktop\SEMESTER 4\NETC#\PROJECTS\ass1_test\Debug\ass1_test.exe
